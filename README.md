@@ -1,4 +1,4 @@
-#VaR and CVaR of a Stock Portfolio
+#VaR and CVaR of a Stock Portfolio#
 *Calculation of the Value at Risk and Conditional Value at Risk for a user-selected portfolio of stocks from Yahoo Finance*
 
 I decided to use Python to compute these two risk measures in order to evaluate the maximum expected loss of a portfolio within a given confidence interval (VaR) and the average loss in the worst-case scenarios (CVaR).
